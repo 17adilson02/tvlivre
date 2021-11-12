@@ -2,17 +2,6 @@
 
 
 
-#EXTINF:-1 tvg-logo="" group-title="Canais | Jogos & Eventos",#EVENTOS 01
-http://pfsv.io:80/jjNPk4T8/54860/33377
-#EXTINF:-1 tvg-logo="" group-title="Canais | Jogos & Eventos",#EVENTOS 02
-http://pfsv.io:80/jjNPk4T8/54860/33399
-#EXTINF:-1 tvg-logo="" group-title="Canais | Jogos & Eventos",#EVENTOS 03
-http://pfsv.io:80/jjNPk4T8/54860/33400
-#EXTINF:-1 tvg-logo="" group-title="Canais | Jogos & Eventos",#EVENTOS 04
-http://pfsv.io:80/jjNPk4T8/54860/33401
-#EXTINF:-1 tvg-logo="" group-title="Canais | Jogos & Eventos",#EVENTOS 05
-http://pfsv.io:80/jjNPk4T8/54860/33402
-
 #EXTINF:-1 tvg-logo="http://z4.vc/uuz" group-title="Canais | Filmes e Séries",A&E FHD
 http://pfsv.io:80/jjNPk4T8/54860/293
 #EXTINF:-1 tvg-logo="LINK_LOGO" group-title="Canais | Filmes e Séries",A&E FHD[H265]
